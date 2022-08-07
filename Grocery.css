@@ -1,0 +1,224 @@
+
+.dmart
+{
+    /* border: 1px solid black; */
+    height: 45px;
+    width:13%; 
+}
+
+/* this is div for location,search,add to kart*/
+.bar{
+    /* border: 1px solid black; */
+    height: 32px;
+    width: 86% ;
+    float: right;
+    margin-top: -47px;
+    padding-top: 15px;
+}
+
+/* location  */
+.location
+{   text-decoration: none;
+    color: green;
+    font-size: large;
+    padding-inline: 75px;
+
+}
+
+/* search */
+.search
+{   text-decoration: none;
+    color: green;
+    font-size: large;
+    padding-inline: 75px;
+
+}
+
+/*  this is for search box */
+#box
+{
+    height: 20px;
+    width: 300px;
+}
+
+/* signup */
+.signup
+{   text-decoration: none;
+    color: green;
+    font-size: large;
+    padding-inline: 75px;
+
+}
+
+/* add to cart */
+.addtokart
+{   text-decoration: none;
+    color: green;
+    font-size: large;
+    padding-inline: 75px;
+
+}
+
+/* this is div for grocery , papad , floor ,cleaning */
+.catogry
+{   margin-top: 2%;
+    border: 1px solid #cabebe;
+    height: 50px;
+}
+
+
+/*this is for grocery, papad , floor cleaning */
+.grocery
+{   list-style: none;
+    text-decoration: none;
+    float: left;
+    font-size: larger;
+    color: black;
+    padding-left: 200px;
+    margin-top: 10px;
+}
+
+i
+{
+    font-size: larger;
+    color: green;
+}
+
+.box
+{
+    /* border: 1px solid black; */
+    margin-top: 2%;
+    width: 95%;
+    height: 1020px;
+    margin-left: 4%;
+}
+
+/* this div for grocery */
+.box1
+{
+    margin-left: 70px;
+    margin: 2%;
+    border: 1px solid #cabebe;
+    width: 20%;
+    height: 460px;
+    float: left;
+}
+/* this is for img */
+.ghee
+{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+/* this is for liter and kilos */
+.cart
+{
+    margin-left: 25px;
+    width: 80%;
+    height: 30px;
+    background: yellowgreen;
+    color: rgb(0, 0, 0);
+    border-color: green;
+    font-weight: bolder;
+}
+.Liter{
+    width: 80%;
+}
+
+/*  for suger img*/
+.suger
+{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+ /*  for moongdal img*/
+.moongdal
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 200px;
+
+}
+
+/*for bournvita img  */
+.bournvita
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 200px;
+}
+
+/*for kelloggs img  */
+.kelloggs
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 200px;
+}
+
+/*for surfexcel img  */
+.surfexcel
+{
+    margin-left: 50px;
+    margin-top: 0px;
+    height: 200px;
+}
+
+/*for gulcond img  */
+.gulcond
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 200px;
+
+}
+
+/* for mayonnaise img */
+.mayonnaise
+{
+    margin-left: 50px;
+    margin-top: 0px;
+    height: 200px;
+
+}
+
+
+.end{
+    border: 1px solid #cabebe;
+    height: 275px;
+    margin-top: 2%;
+}
+
+#footer{
+   /* border: 1px solid black;   */
+    margin-top: 2%;
+    margin-left: 200px;
+    padding-left: 50px;
+    float: left;
+    height: px; 
+    list-style: none;
+    color: dark black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
